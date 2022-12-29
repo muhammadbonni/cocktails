@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/cocktails/static/js/main.48515df9.js",
+    "static/media/undraw_Empty_re_opql.png": "/cocktails/static/media/undraw_Empty_re_opql.36b6a8b6117e3c397973.png",
+    "static/media/undraw_Wine_tasting_re_4jjf (2).png": "/cocktails/static/media/undraw_Wine_tasting_re_4jjf (2).fa27a6bf82b203a7e945.png",
+    "index.html": "/cocktails/index.html",
+    "main.48515df9.js.map": "/cocktails/static/js/main.48515df9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.48515df9.js"
+  ]
+}
